@@ -1,33 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
-  <diagram name="Page-1" id="NWYChZS_nbuTswtIfR0k">
-    <mxGraphModel dx="823" dy="475" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#803F00" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-10-06T15:19:50.451Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.2.2" etag="yGZF-TYHeQyLnI6mUccD" type="github">
+  <diagram name="Page-1" id="tErf0rl4CvOmd_SucAMC">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="166.96" y="220" width="173.04" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="305" y="210" width="185" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=30;" parent="1" vertex="1">
-          <mxGeometry x="91.96" y="140" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="150" y="157.5" width="400" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-8" value="AI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-9" value="Robotics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-10" value="Depp Learning" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="367.5" y="257.5" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2mD-lD-bWdTxfY6up3Jh-11" value="Computer Vision" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="257.5" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
